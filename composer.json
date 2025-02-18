@@ -1,10 +1,9 @@
 {
-	"name": "phpecs/phpecs",
-	"licence": "MIT",
-	"description": "The easiest way to use Coding Standard",
-	"require": {
-		"php": "^7.2|^8.0",
-		"symplify/easy-coding-standard": "^12.5"
-	}
+    "name": "phpecs/phpecs",
+    "license": "MIT",
+    "description": "The easiest way to use Coding Standard",
+    "require": {
+        "php": "^7.2|^8.0",
+        "symplify/easy-coding-standard": "^12.5"
+    }
 }
-

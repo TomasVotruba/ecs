@@ -4,6 +4,6 @@
     "description": "The easiest way to use Coding Standard",
     "require": {
         "php": "^7.2|^8.0",
-        "symplify/easy-coding-standard": "^12.5.9"
+        "symplify/easy-coding-standard": "^12.5.11"
     }
 }
